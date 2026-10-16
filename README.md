@@ -227,6 +227,3 @@ Training and evaluation scripts save model checkpoints, training histories, comp
 
 
 
----
-
-*Developed as a hands-on project to study neural network training behavior, overfitting, and practical regularization techniques using PyTorch.*
